@@ -1,0 +1,4 @@
+deb http://in.archive.ubuntu.com/ubuntu/ bionic main universe
+deb http://in.archive.ubuntu.com/ubuntu/ bionic-updates main universe
+deb http://in.archive.ubuntu.com/ubuntu/ bionic-backports main universe
+deb http://security.ubuntu.com/ubuntu bionic-security main universe
